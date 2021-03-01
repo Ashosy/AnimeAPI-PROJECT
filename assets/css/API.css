@@ -9,3 +9,16 @@ body{
   
 }
 
+.con1{
+    /* border: 2px solid green; */
+    height: 30vh;
+    margin-top: 20px;
+}
+
+.input{
+    float: right;
+    margin: 5px 5px;
+    border: 2px solid rgb(13, 130, 165);
+}
+
+
