@@ -46,3 +46,19 @@ body{
     overflow-x: scroll;
     justify-content: left;
 }
+
+.row > * {
+    flex-basis: 14.15rem;
+    flex-shrink: 0;
+
+}
+
+.row .card {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.row .card > .card-content {
+    flex-grow: 1;
+}
