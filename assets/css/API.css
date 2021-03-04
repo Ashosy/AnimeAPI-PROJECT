@@ -105,3 +105,24 @@ body {
 .btn:hover{
     color: #cfb5b3;
 }
+
+.btn:focus{
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+body::-webkit-scrollbar {
+    width: 15px;             
+  }
+  
+::-webkit-scrollbar{
+    height: 11px;
+    background: #a10b0b;    
+}
+
+::-webkit-scrollbar-track {
+    background: #f3d5c1;       
+  }
+  body::-webkit-scrollbar-track {
+    background: #a10b0b;       
+  }
