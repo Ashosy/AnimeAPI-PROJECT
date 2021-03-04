@@ -126,3 +126,13 @@ body::-webkit-scrollbar {
   body::-webkit-scrollbar-track {
     background: #a10b0b;       
   }
+  ::-webkit-scrollbar-thumb {
+    background-color :#a10b0b;       
+    border: 1px solid #f3d5c1;  
+    }
+      
+      body::-webkit-scrollbar-thumb {
+        background-color: #f3d5c1;       
+        border: 1px solid #a10b0b;  
+      }
+  
