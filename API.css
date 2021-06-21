@@ -35,7 +35,7 @@ body{
     margin-bottom: 30px;
     font-family: Futura;
     font-weight: bolder;
-    width : 30%;
+    width : fit-content;
 
     
 }
